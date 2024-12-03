@@ -94,10 +94,9 @@ function Header() {
 	
 			})
 		});
+	});
 
-
-	})
-
+	
 	let {header}=data;
 
   	return (
